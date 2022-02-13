@@ -1,0 +1,24 @@
+{
+  "name": "assaignment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node application.js",
+    "dev": "nodemon application.js"
+  },
+  "keywords": [
+    "Fs",
+    "Yargs",
+    "Express",
+    "pm2",
+    "nginx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nginx": "^1.0.3"
+  }
+}
